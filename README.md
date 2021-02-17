@@ -1,2 +1,2 @@
 # Kickstart-analysis
-Kickstart musical  and play analysis
+Kickstart musical and play analysis
