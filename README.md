@@ -22,7 +22,7 @@ The chart below shows that if Louise is looking for at least a 50-50 chance of s
 There are a few limitations of the data set including the successful projects where run by individuals that had already run successful Kickstarter projects before.  This also only emcompasses Kickstarter data.  There is a possibility that these Kickstarters are also being partially funded by other sources.  Louise's project myabe smaller than some of the other projects that are looking for less money but ultimately cost more but are being funded by other third parties.  
 
 ## **Results**
-Based on other projects, Louise will likely achieve a successful result by creating here Project in May.  It is also best for her to avoid creating the project any time between October and December.
+Based on other projects, Louise will likely achieve a successful result by creating her Project in May.  It is also best for her to avoid creating the project any time between October and December.
 
 Louise should also look to keep her goal amount below $20,000 with the best results if the goal is less than $5,000.
 
