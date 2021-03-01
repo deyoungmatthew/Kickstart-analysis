@@ -2,13 +2,13 @@
 Kickstart musical and play analysis
 
 ## **Overview of Project**
-This is a breakdown of kickstarter data that takes a look at the relationships between the total goal amounts and date creation of projects.
+This is a breakdown of Kickstarter data that takes a look at the relationships between the total goal amounts and date creation of projects.
 
 ### **Purpose of the project**
 The purpose of the porject is to assist Louise's kickstarter project, "Fever".  It is a theatrical play for which the analysis was created to best help Louise determine what could be an optimal time of project creation on Kickstater as well as what range of funding goals are typically successful.
 
 ## **Analysis and Challenges**
-The result chart files can be viewed [here](https://github.com/deyoungmatthew/Kickstart-analysis/tree/main/Resources).  The analysis was performed by using Kickstarters project data.  To make the data applicable to Luoise's upcoming project, we narrowed the data down to Theater projects, with release dates broken down by month.    In regards to determining what project goal totals appeared to most successful, we created twelve caterogies of amount ranges.  The results of the percentage of successful, failed, and canceled events by these ranges can be view on this [chart]( https://github.com/deyoungmatthew/Kickstart-analysis/blob/main/Resources/Outcomes_vs_Goals.png).  While I didn't personally run into any challenges, I could see how the categorizing of the data into not just the amount ranges used, but as well as by project subcategory could be difficult.
+The result chart files can be viewed [here](https://github.com/deyoungmatthew/Kickstart-analysis/tree/main/Resources).  The analysis was performed by using Kickstarters project data.  To make the data applicable to Louise's upcoming project, we narrowed the data down to Theater projects, with release dates broken down by month.    In regards to determining what project goal totals appeared to most successful, we created twelve caterogies of amount ranges.  The results of the percentage of successful, failed, and canceled events by these ranges can be view on this [chart]( https://github.com/deyoungmatthew/Kickstart-analysis/blob/main/Resources/Outcomes_vs_Goals.png).  While I didn't personally run into any challenges, I could see how the categorizing of the data into not just the amount ranges used, but as well as by project subcategory could be difficult.
 
 ### **Analysis of Outcomes Based on Launch Date**
 In terms of timing of the project creation date on Kickstater, the data appear to show a correlation between launching the project on Kickstarter sometime in late spring or early summer.  The month of May in parcticular appears to not only highest number of total successes, but the highest ration of succes to failures at 2.13 to 1.  This can been seen in the chart below ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/78942457/109441717-0955ae00-7a04-11eb-980c-02278359c6e9.png)
